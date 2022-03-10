@@ -1,13 +1,11 @@
 {
   "name": "tech-blog",
   "version": "1.0.0",
-  "description": "week 14 homework tech-Blog",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "seed": "node seeds/seed.js",
-    "heroku-postbuild": "npm run start"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
